@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="773" height="48" viewBox="0 0 773 48">
+  <g id="Nav" transform="translate(-1002 -50)">
+    <text id="Start" transform="translate(1002 50)" fill="#fff" font-size="40" font-family="Bahnschrift"><tspan x="0" y="32">Start</tspan></text>
+    <text id="Story" transform="translate(1177 50)" fill="#fff" font-size="40" font-family="Bahnschrift"><tspan x="0" y="32">Story</tspan></text>
+    <text id="Services" transform="translate(1352 50)" fill="#fff" font-size="40" font-family="Bahnschrift"><tspan x="0" y="32">Services</tspan></text>
+    <text id="About" transform="translate(1595 50)" fill="#fff" font-size="40" font-family="Bahnschrift"><tspan x="0" y="32">About</tspan></text>
+  </g>
+</svg>
